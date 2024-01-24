@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "356887618684",
+    "project_id": "epredictor-bf63d",
+    "storage_bucket": "epredictor-bf63d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356887618684:android:d97e2b243aafc6389055f9",
+        "android_client_info": {
+          "package_name": "com.epredictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356887618684-h26fqg19q2e058d7ntnhvhso1v1n4upi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epredictor",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "356887618684-kqhnoprqu48sapnsh2ja8fvoacm7qr3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epredictor",
+            "certificate_hash": "1ef96b3177cf6f66a9e76e8a32e20971c40e22d1"
+          }
+        },
+        {
+          "client_id": "356887618684-lh9e5e0c312u63hh1rbdmifc4ntset64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChbFY6dxcVS1mffsyqAlQrbXnU9drx52g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356887618684-lh9e5e0c312u63hh1rbdmifc4ntset64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
